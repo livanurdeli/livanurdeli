@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Bilişim Sistemleri Mühendisliği Öğrencisi | Yazılım Geliştirici
 
-Mehmet Akif Ersoy Üniversitesi'nde eğitimime devam ederken, yazılım dünyasında aktif olarak kendimi geliştiriyor ve projeler üretiyorum. Hem yazılım (Backend/Web) hem de donanım (Arduino) tarafında çalışmaktan keyif alıyorum.
+Mehmet Akif Ersoy Üniversitesi'nde eğitimime devam ederken, yazılım dünyasında aktif olarak kendimi geliştiriyor ve projeler üretiyorum. 
 
 ---
 
