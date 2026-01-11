@@ -38,16 +38,6 @@ Mehmet Akif Ersoy Üniversitesi'nde eğitimime devam ederken, yazılım dünyas�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
-
-### 📂  Projeler
-
-| Proje Adı | Teknoloji | Açıklama |
-| :--- | :--- | :--- |
-| **🚲 Bisiklet Kiralama Uygulaması** | C# (Windows Forms) | Kullanıcıların bisiklet kiralayıp takip edebildiği masaüstü uygulaması. |
-| **🏥 Hastane Otomasyon Sistemi** | Java | Hasta kayıt, randevu ve doktor işlemlerini yöneten kapsamlı bir sistem. |
-| **🌐 Kişisel Blog Sitesi** | HTML, CSS, JS | Kendi yazılarımı paylaştığım, responsive tasarıma sahip web sitesi. |
-| **🔒 İki Butonlu Dijital Kilit** | Arduino | İki buton kombinasyonu ile çalışan güvenlikli kilit sistemi simülasyonu. |
 
 ---
 
