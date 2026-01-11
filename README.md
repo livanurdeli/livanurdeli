@@ -11,7 +11,6 @@ Mehmet Akif Ersoy Üniversitesi'nde eğitimime devam ederken, yazılım dünyas�
 * 🎓 **Eğitim:** Mehmet Akif Ersoy Üniversitesi – Bilişim Sistemleri Mühendisliği (2022 - Devam)
 * 💻 **Odak:** Yazılım Geliştirme, Web Teknolojileri ve Otomasyon Sistemleri
 * 🌍 **Dil:** Türkçe (Ana Dil), İngilizce (B1)
-* 🔭 Şu anda **Java, C# ve Web Teknolojileri** üzerine projelerimi geliştiriyorum.
 
 ---
 
