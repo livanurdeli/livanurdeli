@@ -2,8 +2,9 @@
 
 ### 👩‍💻 Bilişim Sistemleri Mühendisliği Öğrencisi | Yazılım Geliştirici
 
-Mehmet Akif Ersoy Üniversitesi Bilişim Sistemleri Mühendisliği bölümünde 3. sınıf öğrencisiyim.  
-Yazılım geliştirme ve veritabanı sistemleri alanında aktif olarak projeler geliştiriyor, özellikle **backend teknolojileri** ve **otomasyon sistemleri** üzerine çalışıyorum.
+Bilgi Sistemleri Mühendisliği 3. sınıf öğrencisi olarak yazılım geliştirme ve veritabanı sistemleri
+alanında uzmanlaşmaktayım. Java ve C# dillerinde projeler geliştiriyor, özellikle Spring Boot
+ile backend mimarileri üzerine çalışıyorum. 
 
 ---
 
@@ -14,17 +15,17 @@ Yazılım geliştirme ve veritabanı sistemleri alanında aktif olarak projeler 
   - Yazılım Geliştirme  
   - Backend & Web Teknolojileri  
   - Veritabanı Sistemleri ve Otomasyon
-- 🌍 **Dil:** Türkçe (Ana Dil), İngilizce (B1 – Teknik doküman okuma)
+- 🌍 **Dil:** Türkçe-Ana Dil, İngilizce-B1
 
 ---
 
-## 🛠️ Teknik Yetenekler (Tech Stack)
+## 🛠️ Teknik Yetenekler 
 
 ### ☕ Programlama Dilleri & Veritabanı
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
@@ -40,6 +41,7 @@ Yazılım geliştirme ve veritabanı sistemleri alanında aktif olarak projeler 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -65,4 +67,4 @@ Yazılım geliştirme ve veritabanı sistemleri alanında aktif olarak projeler 
 
 ---
 
-⭐ Staj ve junior pozisyonları için öğrenmeye açık, gelişime odaklı bir yazılım geliştiriciyim.
+
