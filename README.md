@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Bilişim Sistemleri Mühendisliği Öğrencisi | Yazılım Geliştirici
 
-Bilgi Sistemleri Mühendisliği 3. sınıf öğrencisi olarak yazılım geliştirme ve veritabanı sistemleri
+Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi olarak yazılım geliştirme ve veritabanı sistemleri
 alanında uzmanlaşmaktayım. Java ve C# dillerinde projeler geliştiriyor, özellikle Spring Boot
 ile backend mimarileri üzerine çalışıyorum. 
 
