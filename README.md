@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Bilişim Sistemleri Mühendisliği Öğrencisi | Yazılım Geliştirici
 
-Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi olarak yazılım geliştirme ve veritabanı sistemleri
+Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisi olarak yazılım geliştirme ve veritabanı sistemleri
 alanında kendimi geliştiriyorum. Java, Go, C# ve TypeScript ile projeler geliştiriyor; Spring Boot ve Go ile
 backend mimarileri, React / React Native ile frontend ve mobil uygulamalar, Docker & Jenkins ile de
 CI/CD süreçleri üzerine çalışıyorum.
